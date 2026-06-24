@@ -107,11 +107,11 @@ My experience includes developing end-to-end data projects involving data cleani
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=default)
+![](https://github-readme-stats.vercel.app/api?username=rudrak5h\&show_icons=true\&theme=default)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rudrak5h)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrak5h\&layout=compact)
 
 </div>
 
