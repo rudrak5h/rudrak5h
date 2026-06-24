@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Data+Science+Enthusiast;MBA+(Business+Analytics)+Student;Building+Data-Driven+Solutions;Transforming+Data+into+Insights"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Data+Scientist;Business+Analytics+Student;Building+Data-Driven+Solutions;Transforming+Data+into+Insights"/>
 
 <br/>
 
