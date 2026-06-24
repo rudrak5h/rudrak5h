@@ -4,9 +4,9 @@
 
 <br/>
 
-# Rudraksh Bhardwaj
+# Rudraksh 
 
-### Aspiring Data Analyst | Data Science & Business Analytics
+### Data Scientist
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ![](https://img.shields.io/badge/Location-Delhi,_India-F59E0B?style=for-the-badge)
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rudraksh-a3b81835b/)">
+<a href="https://www.linkedin.com/in/rudraksh-a3b81835b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -40,7 +40,7 @@
 
 # About Me
 
-Aspiring Data Analyst with a background in Biotechnology and Business Analytics, focused on solving business problems through data analysis, machine learning, visualization, and predictive modeling.
+Data Scientist specialized in predictive analytics, statistical modeling, and decision intelligence. Converts complex datasets into measurable outcomes through structured experimentation, feature engineering, and analytical modeling.
 
 My experience includes developing end-to-end data projects involving data cleaning, exploratory data analysis, machine learning, dashboard development, and deployment using modern analytics tools.
 
@@ -264,7 +264,7 @@ Open_To:
 
 <div align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rudraksh-a3b81835b/)">
+<a href="https://www.linkedin.com/in/rudraksh-a3b81835b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
